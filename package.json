@@ -1,6 +1,6 @@
 {
   "name": "canvacord",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "description": "Simple & easy to use image manipulation module for discord bots with a lot of features like rank card, memes & more.",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
     "test": "cd test && node index.js",
     "format": "prettier --write \"src/**/*.js\""
   },
-  "homepage": "https://canvacord.snowflakedev.xyz",
+  "homepage": "https://canvacord.js.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Snowflake107/Canvacord"
+    "url": "git+https://github.com/Snowflake107/Canvacord.git"
   },
   "keywords": [
     "Canvacord",
@@ -32,7 +32,11 @@
     "api"
   ],
   "author": "Snowflake107",
-  "license": "ISC",
+  "license": "GPL-3.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/devsnowflake"
+  },
   "dependencies": {
     "@jimp/custom": "^0.14.0",
     "@jimp/plugin-circle": "^0.14.0",
@@ -47,5 +51,8 @@
     "jsdoc": "^3.6.5",
     "jsdoc-skyceil": "^1.0.5",
     "prettier": "^2.0.5"
+  },
+  "bugs": {
+    "url": "https://github.com/Snowflake107/Canvacord/issues"
   }
 }

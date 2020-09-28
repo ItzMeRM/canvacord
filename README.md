@@ -24,7 +24,7 @@ npm i --save canvacord
 - If you want to go deeper, you must learn canvas
 
 # Methods
-**[All The Methods are listed here](https://canvacord.snowflakedev.xyz/canvacord)**
+**[All The Methods are listed here](https://canvacord.js.org)**
 
 # Example
 
@@ -92,40 +92,16 @@ client.login("Your_Bot_Token_here");
 ```
 
 # Documentation
-**[https://canvacord.snowflakedev.xyz](https://canvacord.snowflakedev.xyz)**
+**[https://canvacord.snowflakedev.xyz](https://canvacord.js.org)**
 
-# Preview
-![image](https://raw.githubusercontent.com/Snowflake107/canvacord/master/screenshot.png)
 
-# Change My Mind
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/changemymind.png)
+# License
+This project is licensed under **[GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
 
-# Rank Cards
-## Default
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-default.png)
-
-## Custom Background & Color
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-custom-bg-and-color.png)
-
-## Custom Background & No Overlay
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-custom-bg-no-overlay.png)
-
-## Custom Background
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-custom-bg.png)
-
-## Custom Background, Color & No Overlay
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-custom-color-bg-no-overlay.png)
-
-## Custom Color
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/rank-custom-color.png)
-
-# Triggered
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/triggered.gif)
-
-# Color
-![img](https://raw.githubusercontent.com/Snowflake107/canvacord/master/test/color.png)
-
-> ### Read the docs for more endpoints
+```md
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+```
 
 # Join Our Discord Server
 **[discord.gg/uqB8kxh](https://discord.gg/uqB8kxh)**
